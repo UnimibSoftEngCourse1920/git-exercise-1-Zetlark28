@@ -1,0 +1,3 @@
+ciao           RIGA 1
+prova di git   RIGA 2	
+ok             RIGA 3
